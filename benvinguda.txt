@@ -4,3 +4,4 @@ Vicent
 (B)Modificació 01 Main Vicent
 (C)Benvinguda a ka branca 02 Vicent
 (D)Modificació 02 Main Vicent
+(F)Afegim imatge a branca02
